@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +53,7 @@
   </style>
 </head>
 <body>
-  <div class="text">Love you Babe Ano!❤‍🔥</div>
+  <div class="text">Love you Mr Frank❤‍🔥</div>
   <script>
     function createStar() {
       const star = document.createElement('div');
